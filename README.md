@@ -12,7 +12,8 @@ Search on Youtube for tutorials on these pieces of software to learn more about 
 
 ## Printing your 3D model
 Follow the following steps to print your model in the Innovation Lab
-1. Start remote desktop ![alt text](https://github.com/TDYInnovationLab/WorkInstructions/READMESources/blob/main/RemoteDesktopConnection.jpg?raw=true)
+1. Start remote desktop 
+![alt text](https://github.com/TDYInnovationLab/WorkInstructions/READMESources/blob/main/RemoteDesktopConnection.jpg?raw=true)
 2. two
 
 
