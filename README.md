@@ -13,5 +13,5 @@ Search on Youtube for tutorials on these pieces of software to learn more about 
 ## Printing your 3D model
 Follow the following steps to print your model in the Innovation Lab
 1. 
-![alt text](https://github.com/TDYInnovationLab/WorkInstructions/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/TDYInnovationLab/WorkInstructions/blob/[branch]/QRCode.jpg?raw=true)
 
