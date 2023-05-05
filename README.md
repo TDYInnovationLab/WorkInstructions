@@ -12,7 +12,7 @@ Search on Youtube for tutorials on these pieces of software to learn more about 
 
 ## Printing your 3D model
 Follow the following steps to print your model in the Innovation Lab
-1. one
+1. Start remote desktop 
 2. two
 
 
